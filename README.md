@@ -1,1 +1,2 @@
-# kt-ai-2
+# Basic_AI
+#### aivle school
